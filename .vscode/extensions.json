@@ -1,0 +1,14 @@
+{
+	"recommendations": [
+		"cweijan.vscode-office",
+		"maptz.camelcasenavigation",
+		"wmaurer.change-case",
+		"streetsidesoftware.code-spell-checker",
+		"shd101wyy.markdown-preview-enhanced",
+		"bierner.markdown-footnotes",
+		"wraith13.open-in-github-desktop",
+		"davidanson.vscode-markdownlint",
+		"gruntfuggly.todo-tree",
+		"vscode-icons-team.vscode-icons"
+	]
+}
