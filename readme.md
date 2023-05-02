@@ -3,7 +3,7 @@
 
 Some excel workbooks to help you track your progress with a course / module / semester. All workbooks are in the [Microsoft Office Excel](https://www.microsoft.com/microsoft-365/) format. The worksheets are locked. The `Protect Sheet` password is blank. To unlock the worksheets hit the `Review` tab and click `Protect Sheet` and hit then `Enter` key.
 
-![Sample](docs/images/2023-04apr-26-readme-screenshot-sample.png)
+![Sample](docs/images/2023-04Apr-26-readme-screenshot-sample.png.png)
 
 > Sample screen shot of [advanced-enterprise-development-java-spring.xlsx](./modules/advanced-enterprise-development-java-spring.xlsx)
 
